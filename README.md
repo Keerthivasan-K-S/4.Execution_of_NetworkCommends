@@ -49,7 +49,11 @@ while True:
 
 
 ## Output
-<img width="1691" height="920" alt="image" src="https://github.com/user-attachments/assets/34aef1bf-31a7-4c7d-9c0d-392fa621581b" />
+### Client
+<img width="1141" height="510" alt="image" src="https://github.com/user-attachments/assets/a7969f09-a65b-432c-83aa-bcda668a9b56" />
+
+### Server
+<img width="982" height="530" alt="image" src="https://github.com/user-attachments/assets/143cd8da-c420-42a4-b3d7-071d1df6f4b6" />
 
 ## Result
 Thus Execution of Network commands Performed 
